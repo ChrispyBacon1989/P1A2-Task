@@ -1,0 +1,7 @@
+Can't use python date functions or loose 10 marks
+
+Make built in tests
+
+Functions for date, copy code out of library and use it instead of the pre
+defined functions
+
